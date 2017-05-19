@@ -2,4 +2,3 @@ node_modules
 .DS_Store
 portfolio-gimp
 sendgrid.env
-sendgrid-php
