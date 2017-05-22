@@ -1,8 +1,3 @@
 node_modules
 .DS_Store
 portfolio-gimp
-sendgrid.env
-sendgrid-php/
-composer.json
-contact_me.js
-mail/
